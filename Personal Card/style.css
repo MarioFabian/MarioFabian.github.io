@@ -41,7 +41,7 @@ body{
      height: 150px;
      border-radius: 50%;
      object-fit: cover;
-     box-shadow: 0 0 10px rgba(0, 0, , 0.8);
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
 }
 .card .content span {
     position: absolute;
